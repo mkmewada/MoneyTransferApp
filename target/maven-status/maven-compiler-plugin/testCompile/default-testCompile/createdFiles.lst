@@ -1,0 +1,5 @@
+com\db\awmd\challenge\service\TransferValidatorImplTest.class
+com\db\awmd\challenge\AccountsControllerTest.class
+com\db\awmd\challenge\AccountsServiceTest.class
+com\db\awmd\challenge\AccountsServiceTestConfiguration.class
+com\db\awmd\challenge\repository\AccountsRepositoryInMemoryTest.class
